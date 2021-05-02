@@ -24,7 +24,7 @@ const Home = () => {
                             <p class="card-text">A day care website where educational services are provided.</p>
                         </div>
                         <div class="text-center">
-                            <button className = "btn btn-secondary button"><a href = "https://github.com/"target = "_blank">Github</a></button>
+                            <button className = "btn btn-secondary button"><a href = "https://github.com/">Github</a></button>
                             <button className = "btn btn-secondary button"><a href = "https://kids-world-2e472.web.app/">Website</a></button>
                         </div> 
             

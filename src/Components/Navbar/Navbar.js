@@ -9,7 +9,7 @@ const Navbar = () => {
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <a class="navbar-brand name text-white">IVY NASREEN</a>
+                <a href = "https://linkedin.com/in/ivy-nasreen-0896603a/ "class="navbar-brand name text-white">IVY NASREEN</a>
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item active">

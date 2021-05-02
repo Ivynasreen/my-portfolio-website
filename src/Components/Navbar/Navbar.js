@@ -13,22 +13,22 @@ const Navbar = () => {
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item active">
-                            <Link to="/home"><a class="nav-link me-3 text-white" href="#">Home</a></Link>
+                            <Link to="/home"><a class="nav-link me-3 text-white" >Home</a></Link>
                         </li>
                         <li class="nav-item">
-                            <Link to="/about"><a class="nav-link me-3 text-white" href="#">About</a></Link>
+                            <Link to="/about"><a class="nav-link me-3 text-white" >About</a></Link>
                         </li>
                         <li class="nav-item">
-                            <Link to="/portfolio"><a class="nav-link me-3 text-white" href="#">Portfolio</a></Link>
+                            <Link to="/portfolio"><a class="nav-link me-3 text-white" >Portfolio</a></Link>
                         </li>
                         <li class="nav-item">
-                            <Link to="/blog"><a class="nav-link me-3 text-white" href="#">Blog</a></Link>
+                            <Link to="/blog"><a class="nav-link me-3 text-white" >Blog</a></Link>
                         </li>
                         <li class="nav-item">
-                            <Link to="/contact"><a class="nav-link me-3 text-white" href="#">Contact</a></Link>
+                            <Link to="/contact"><a class="nav-link me-3 text-white" >Contact</a></Link>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link me-3 text-white" href="https://drive.google.com/file/d/16RhgkLICT13XcSzwO1mBwQSvQOmmY0vo/view?usp=sharing" target="_blank">Resume</a>
+                            <a class="nav-link me-3 text-white" href="https://drive.google.com/file/d/16RhgkLICT13XcSzwO1mBwQSvQOmmY0vo/view?usp=sharing">Resume</a>
                         </li>
                     </ul>
                 </div>

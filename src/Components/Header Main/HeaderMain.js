@@ -16,10 +16,10 @@ const HeaderMain = () => {
                 <p>A self-motivated, enthusiastic and hard working person eager to learn new technologies and methodologies.<br />Always willing to innovate the new things which can improve the existing technology.
                 <br />I seek challenging opportunities where I can fully use my skills for the success of the organization. </p>
                 <div>
-                    <button type="button" className="btn btn-light resume"><a href="https://drive.google.com/file/d/16RhgkLICT13XcSzwO1mBwQSvQOmmY0vo/view?usp=sharing" target="_blank" style = {{textDecoration: 'none', color: 'grey'}}>Download Resume</a></button>
+                    <button type="button" className="btn btn-light resume"><a href="https://drive.google.com/file/d/16RhgkLICT13XcSzwO1mBwQSvQOmmY0vo/view?usp=sharing" style = {{textDecoration: 'none', color: 'grey'}}>Download Resume</a></button>
                 </div>
-                <a class = "linkedin" href="https://linkedin.com/in/ivy-nasreen-0896603a/" target="_blank"><FontAwesomeIcon icon={faLinkedin} /></a>
-                <a href="https://github.com/Ivynasreen" target="_blank"><FontAwesomeIcon icon={faGithub} style= {{color: 'white', fontSize: '20px'}} /></a>
+                <a class = "linkedin" href="https://linkedin.com/in/ivy-nasreen-0896603a/"><FontAwesomeIcon icon={faLinkedin} /></a>
+                <a href="https://github.com/Ivynasreen" ><FontAwesomeIcon icon={faGithub} style= {{color: 'white', fontSize: '20px'}} /></a>
             </div>
         </div>
     );

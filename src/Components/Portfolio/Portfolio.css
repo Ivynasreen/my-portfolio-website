@@ -1,0 +1,9 @@
+h2 {
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 15px;
+    text-transform: uppercase;
+}
+.portfolio {
+    padding-bottom: 20px;
+}

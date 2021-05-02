@@ -1,0 +1,13 @@
+nav ul li a, .name {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+}
+.nav-menu {
+    background-color: #222f3e;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}

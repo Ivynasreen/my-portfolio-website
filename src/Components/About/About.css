@@ -1,0 +1,17 @@
+.about {
+    background-color: #636e72;
+}
+.image {
+    margin-top: 15px;
+    border-radius: 50%;
+    width: 350px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+}
+.about-me {
+    margin-top: 5em;
+}
+.card-title {
+    font-weight: bold;
+}

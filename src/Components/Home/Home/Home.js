@@ -24,7 +24,7 @@ const Home = () => {
                             <p class="card-text">A day care website where educational services are provided.</p>
                         </div>
                         <div class="text-center">
-                            <button className = "btn btn-secondary button"><a href = "https://github.com/">Github</a></button>
+                            <button className = "btn btn-secondary button"><a href = "https://github.com/Ivynasreen/kids-world-client">Github</a></button>
                             <button className = "btn btn-secondary button"><a href = "https://kids-world-2e472.web.app/">Website</a></button>
                         </div> 
             
@@ -38,7 +38,7 @@ const Home = () => {
                             <p class="card-text">An online grocery store website where people can buy their needed groceries.</p>
                         </div>
                         <div class="text-center">
-                            <button className = "btn btn-secondary button"><a href= "https://github.com/">Github</a></button>
+                            <button className = "btn btn-secondary button"><a href= "https://github.com/Ivynasreen/one-stop-market-client">Github</a></button>
                             <button className = "btn btn-secondary button"><a href = "https://one-stop-supermarket.web.app/">Website</a></button>
                         </div>
                     </div>
@@ -51,7 +51,7 @@ const Home = () => {
                             <p class="card-text">A sports website where users can see details of given sports club.</p>
                         </div>
                         <div class="text-center">
-                            <button className = "btn btn-secondary button"><a href = "https://github.com/">Github</a></button>
+                            <button className = "btn btn-secondary button"><a href = "https://github.com/Ivynasreen/avengers-sports">Github</a></button>
                             <button className = "btn btn-secondary button"><a href = "https://604a45bebf3ebe2158e71c68--sad-turing-22fff5.netlify.app/">Website</a></button>
                         </div>
                     </div>

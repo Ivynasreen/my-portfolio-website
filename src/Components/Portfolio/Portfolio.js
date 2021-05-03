@@ -23,7 +23,7 @@ const Portfolio = () => {
                                 <p class="card-text">A day care website where educational services are provided and by clicking enroll button users can enroll for respective subjects. In the dashboard there is a booking list where users can see their bookings and can give reviews in the review section.  Admin can make other admins, add and delete services, and can see the booking list of users.<br />Technology Used: React.js, Node.js, Express.js, Mongo DB, Firebase, Heroku, Bootstrap</p>
                             </div>
                             <div class="text-center">
-                                <button className="btn btn-secondary button"><a href="https://github.com/">Github</a></button>
+                                <button className="btn btn-secondary button"><a href="https://github.com/Ivynasreen/kids-world-client">Github</a></button>
                                 <button className="btn btn-secondary button"><a href="https://kids-world-2e472.web.app/">Website</a></button>
                             </div>
 
@@ -38,7 +38,7 @@ const Portfolio = () => {
                                 <p class="card-text">An online grocery store website from where people can buy their needed groceries. By choosing the items and clicking the buy now button users will be taken to checkout page and then they can see orders they have made. And admin can add products and manage the products.<br />Technology Used: React.js, Node.js, Express.js, Mongo DB, Firebase, Heroku, Bootstrap</p>
                             </div>
                             <div class="text-center">
-                                <button className="btn btn-secondary button"><a href="https://github.com/">Github</a></button>
+                                <button className="btn btn-secondary button"><a href="https://github.com/Ivynasreen/one-stop-market-client">Github</a></button>
                                 <button className="btn btn-secondary button"><a href="https://one-stop-supermarket.web.app/" >Website</a></button>
                             </div>
                         </div>
@@ -53,7 +53,7 @@ const Portfolio = () => {
                                 <br /> Technology Used: React.js, Bootstrap, HTML, CSS,Netlify</p>
                             </div>
                             <div class="text-center">
-                                <button className="btn btn-secondary button"><a href="https://github.com/" >Github</a></button>
+                                <button className="btn btn-secondary button"><a href="https://github.com/Ivynasreen/avengers-sports" >Github</a></button>
                                 <button className="btn btn-secondary button"><a href="https://604a45bebf3ebe2158e71c68--sad-turing-22fff5.netlify.app/">Website</a></button>
                             </div>
                         </div>
@@ -67,7 +67,7 @@ const Portfolio = () => {
                                 <p class="card-text">An online winter clothing store website. There is winter jacket collection both for man and woman in different sections. Prices for the products are given. A buy now button is there. A separate section is done for the best selling products.<br />Technology Used: HTML, CSS, Bootstrap</p>
                             </div>
                             <div class="text-center">
-                                <button className="btn btn-secondary button"><a href="https://github.com/">Github</a></button>
+                                <button className="btn btn-secondary button"><a href="https://github.com/Ivynasreen/responsive-website">Github</a></button>
                                 <button className="btn btn-secondary button"><a href="https://ivynasreen.github.io/responsive-website/">Website</a></button>
                             </div>
                         </div>
